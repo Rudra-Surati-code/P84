@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text-danger {
+    color: red;
+}
+
+body {
+    background: url("racing.gif") no-repeat center;
+    background-size: 100% 150vh;
+    text-align: center;
+    color: #fff;
+}
+
+#myCanvas {
+    border: 3px solid #000;
+}
